@@ -6,4 +6,4 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application
 
-UI of Drawe just little like a Play Store
+UI of Drawer just little like a Play Store
